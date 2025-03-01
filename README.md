@@ -16,21 +16,25 @@
   I’m excited to keep growing as a developer and working on meaningful projects.
   Feel free to check out my repositories or reach out!
 
+  <br>
 </div>
 
 <div align="center">
   <a href="mailto:antonn.horoshko@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/@anton_horoshko" target="_blank">
+  <a href="https://t.me/anton_horoshko" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/404981635902210049" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
 <hr>
 
 <div align="center">
-  <h3 > Languages and Tools </h3>
+  <h2>⚙️Languages and Tools⚙️</h2>
   <br>
 
   <a href="https://skillicons.dev">
