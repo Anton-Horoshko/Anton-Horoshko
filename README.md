@@ -45,5 +45,5 @@
 
 <hr>
 
-<p> <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=anton-horoshko&show_icons=true&locale=en" alt="anton-horoshko" />
-<img align="center" width="424px" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-horoshko&" alt="anton-horoshko" /> </p>
+<p><img align="center" width="401px" src = "https://github-readme-stats.vercel.app/api?username=anton-horoshko" />
+<img align="center" width="437px" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-horoshko"/> </p>
