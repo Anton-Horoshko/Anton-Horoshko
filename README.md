@@ -44,6 +44,6 @@
 </div>
 
 <hr>
-
-<p><img align="center" width="401px" src = "https://github-readme-stats.vercel.app/api?username=anton-horoshko" />
-<img align="center" width="437px" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-horoshko"/> </p>
+<div align="center">
+  <img align="center" width="437px" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-horoshko"/>
+</div>
